@@ -1,0 +1,65 @@
+.btn-default {
+  padding: 10px 16px;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #ccc;
+  border-radius: 5%;
+  color: #545454;
+  background-color: #fff;
+}
+.btn-default:hover {
+  background-color: #cccccc;
+}
+.btn-blue {
+  padding: 10px 16px;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #48a0ff;
+  border-radius: 5%;
+  color: #fff;
+  background-color: #48a0ff;
+}
+.btn-blue:hover {
+  background-color: #006ce1;
+}
+.btn-red {
+  padding: 10px 16px;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #ff133a;
+  border-radius: 5%;
+  color: #fff;
+  background-color: #ff0c05;
+}
+.btn-red:hover {
+  background-color: #9e0400;
+}
+.btn-orange {
+  padding: 10px 16px;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #ff6412;
+  border-radius: 5%;
+  color: #fff;
+  background-color: #ff6412;
+}
+.btn-orange:hover {
+  background-color: #ab3b00;
+}
+.btn-green {
+  padding: 10px 16px;
+  font-size: 14px;
+  text-align: center;
+  vertical-align: middle;
+  border: 1px solid #62d134;
+  border-radius: 5%;
+  color: #fff;
+  background-color: #62d134;
+}
+.btn-green:hover {
+  background-color: #3b821d;
+}
